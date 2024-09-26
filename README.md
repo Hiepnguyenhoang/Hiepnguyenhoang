@@ -1,8 +1,5 @@
 ## 👋 Hello Everyone, Welcome to my profile, Nguyen Hoang Hiep
 
-<!--
-**Hiepnguyenhoang/Hiepnguyenhoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # About Me
 - 🏫 School: Hanoi University of Science and Technology (2021-Now)
 - 🌱 Major: Smart Embedded System and IoT 4th Year Student
@@ -10,9 +7,8 @@
 - 🎯 Focusing: IoT Solution
 - 🏠 Hometown: Hungyen, Vietnam
 - ⚡ Hobbies: Badminton, Travelling, Gaming
--->
 
-## 🌐Socials
+
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/894443390031249438) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100009669068016) 
@@ -21,7 +17,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@hiepnguyenhoang8471) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kzhiep@gmail.com)
  
-# 💻Tech Stack
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
