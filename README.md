@@ -5,7 +5,7 @@
 - 🌱 Major: Smart Embedded System and IoT 4th Year Student
 - 💬 Language: Vietnamese, Japanese, English
 - 🎯 Focusing: IoT Solution
-- 🏠 Hometown: Hungyen, Vietnam
+- 🏠 Location: Phuong Liet, Thanh Xuan, Ha Noi
 - ⚡ Hobbies: Badminton, Travelling, Gaming
 
 # 💻 Tech Stack
@@ -19,9 +19,6 @@
 
 # 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/894443390031249438) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100009669068016) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/wow_hip/) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@MS4wLjABAAAAt6BMwR_iZR4kBq8GY7KQ02KoViOtQxHupnePql8kkIZ8GKoP-ie4SZb-UvRdurFA?is_from_webapp=1&sender_device=pc) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@hiepnguyenhoang8471) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kzhiep@gmail.com)
  
