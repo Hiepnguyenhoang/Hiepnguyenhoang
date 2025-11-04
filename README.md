@@ -16,7 +16,8 @@
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Roboflow](https://img.shields.io/badge/Roboflow-%237952B3.svg?style=for-the-badge&logo=roboflow&logoColor=white)
-![Kaggle]([https://img.shields.io/badge/Kaggle-ffffff?style=for-the-badge&logo=kaggle&logoColor=%2320BEFF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4373210%2Fkaggle_logo_logos_icon&psig=AOvVaw2hBBMQkOnwptXP1o8eIKu6&ust=1762337756148000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPjY1_Gh2JADFQAAAAAdAAAAABAE))
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=%2320BEFF)
+
 
 # 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/894443390031249438) 
