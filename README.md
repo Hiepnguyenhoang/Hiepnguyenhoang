@@ -18,7 +18,6 @@
 ![Roboflow](https://img.shields.io/badge/Roboflow-%237952B3.svg?style=for-the-badge&logo=roboflow&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-white?style=for-the-badge&logo=kaggle&logoColor=%2320BEFF)
 
-
 # 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/894443390031249438) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@hiepnguyenhoang8471) 
