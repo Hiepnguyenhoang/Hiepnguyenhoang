@@ -24,8 +24,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kzhiep@gmail.com)
  
 # 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Hiepnguyenhoang&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiepnguyenhoang&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiepnguyenhoang&theme=default&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiepnguyenhoang&theme=default&hide_border=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
