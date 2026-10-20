@@ -1,10 +1,10 @@
 ## 👋 Hello Everyone, Welcome to my profile, Nguyen Hoang Hiep
 
 # About Me
-- 🏫 School: Hanoi University of Science and Technology (2021-Now)
-- 🌱 Major: Smart Embedded System and IoT 4th Year Student
+- 🏫 School: Hanoi University of Science and Technology 
+- 🌱 Major: Smart Embedded System and IoT 
 - 💬 Language: Japanese, English
-- 🎯 Focusing: IoT Solution
+- 🎯 Focusing: AI Solution
 - 🏠 Location: Phuong Liet, Thanh Xuan, Ha Noi
 - ⚡ Hobbies: Badminton, Travelling, Gaming
 
